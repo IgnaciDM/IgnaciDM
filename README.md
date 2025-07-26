@@ -1,4 +1,4 @@
-<h1 align="center">Hello everyone, I'm Ignacio DM</h1>
+<h1 align="center">Hello everyone, I'm Ignacio DM ¯\_(ツ)_/¯</h1>
 <h3 align="center">Passionate about coding, problem‑solving, and turning ideas into software.</h3>
 
 - 🔭 I’m currently working on [Point Counter](https://github.com/IF-Enterprise/Points-Counter)
