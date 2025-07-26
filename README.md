@@ -1,15 +1,18 @@
 <h1 align="center">Hello everyone, I'm Ignacio DM ¯\_(ツ)_/¯</h1>
 <h3 align="center">Passionate about coding, problem‑solving, and turning ideas into software.</h3>
 
-- 🔭 I’m currently working on [Point Counter](https://github.com/IF-Enterprise/Points-Counter)
+- 👨‍💻 Software Engineering student at the University of Barcelona [https://web.ub.edu/es/](https://web.ub.edu/es/)
 
 - 🌱 I’m currently learning **Kotlin,exploring OOP design patterns, and experimenting with game development.**
 
-- 👨‍💻 Software Engineering student at the University of Barcelona [https://web.ub.edu/es/](https://web.ub.edu/es/)
+- 🔭 I’m currently working on [Point Counter](https://github.com/IF-Enterprise/Points-Counter)
 
 - 📫 How to reach me **i.dalmaumiravitlles@gmail.com**
 
 - ⚡ Fun fact **I talk to my code as if it could hear me… and sometimes it listens.**
+
+![HelloWorldAnimationGIF](https://github.com/user-attachments/assets/103317c7-7c64-4fa7-aa7e-ac7f0d541c30)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
