@@ -4,7 +4,7 @@
 <tr>
 <td width="55%" valign="top">
 
-<h1 align="left">👋 Hello everyone, I'm Ignacio DM ¯\_(ツ)_/¯</h1>
+<h1 align="left"> I'm Ignacio DM ¯\_(ツ)_/¯</h1>
 <h3 align="left">💻 Passionate about coding, problem‑solving, and turning ideas into software.</h3>
 
 - 👨‍💻 Software Engineering student at the [University of Barcelona](https://web.ub.edu/es/)  
