@@ -28,7 +28,7 @@
 <td width="45%" align="center" valign="middle">
 
 <div style="border: 3px solid #ddd; border-radius: 15px; padding: 10px; background: linear-gradient(135deg, #f9f9f9, #e1e8ef); box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
-  <img src="https://github.com/user-attachments/assets/103317c7-7c64-4fa7-aa7e-ac7f0d541c30" 
+  <img src="https://github.com/user-attachments/assets/372ad769-12a7-4dee-8fcd-40cd613b448d"
        alt="Hello World Animation GIF" 
        style="max-width: 100%; border-radius: 10px;">
 </div>
